@@ -166,7 +166,7 @@ We welcome contributions! If you'd like to add new functions, improve documentat
 
 ## License 📄
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the [MIT License](https://github.com/ItsEhsanMM/excel-functions/blob/main/LICENSE)
 
 ---
 
