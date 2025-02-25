@@ -1,0 +1,16 @@
+{
+  "name": "excel-functions",
+  "version": "1.0.0",
+  "main": "./src",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["excel", "typescript"],
+  "author": "Ehsan Mohammadi",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
