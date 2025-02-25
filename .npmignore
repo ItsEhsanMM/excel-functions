@@ -1,0 +1,14 @@
+src
+node_modules
+tests
+__tests__
+coverage
+.git
+.github
+.vscode
+.idea
+.env
+.DS_Store
+*.log
+*.lock
+tsconfig.json
