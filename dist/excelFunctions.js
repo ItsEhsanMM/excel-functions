@@ -14,7 +14,7 @@ export const MathFunctions = {
      * @returns {number} The sum of the numbers.
      */
     SUM: (...args) => {
-        return args.reduce((acc, val) => acc + (isNumeric(val) ? Number(val) : 0, 0));
+        return args.reduce((acc, val) => acc + (isNumeric(val) ? Number(val) : 0), 0);
     },
     /**
      * Calculates the average of numbers.
