@@ -1,17 +1,27 @@
 {
-  "name": "excel-functions",
-  "version": "1.0.0",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "scripts": {
-    "build": "tsc",
-    "prepublishOnly": "npm run build"
-  },
-  "keywords": ["excel", "typescript"],
-  "author": "Ehsan Mohammadi",
-  "license": "MIT",
-  "description": "",
-  "devDependencies": {
-    "typescript": "^4.0.0"
-  }
+   "name": "excel-functions",
+   "version": "1.0.0",
+   "main": "dist/index.js",
+   "types": "dist/index.d.ts",
+   "scripts": {
+      "build": "tsc",
+      "prepublishOnly": "npm run build"
+   },
+   "keywords": [
+      "excel",
+      "typescript"
+   ],
+   "author": "Ehsan Mohammadi",
+   "license": "MIT",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ItsEhsanMM/excel-functions.git"
+   },
+   "bugs": {
+    "url": "https://github.com/ItsEhsanMM/excel-functions/issues"
+   },
+   "homepage": "https://github.com/ItsEhsanMM/excel-functions#readme",
+   "devDependencies": {
+      "typescript": "^4.0.0"
+   }
 }
